@@ -1,0 +1,180 @@
+#header01
+{
+text-align: center;
+color:yellow;
+font-family:courier;
+font-style: oblique;
+text-align:center;
+border: 2px solid powderblue;
+margin-left:500px;
+margin-right:500px;
+}
+
+#header01:hover
+{
+color:blue;
+transition: 3s;
+cursor: pointer;
+}
+
+#body01
+{
+background-image:url(Ik.jpg);
+background-size: 100% 100%;
+background-repeat:no-repeat;
+}
+
+#list01
+{
+margin-left:100px;
+margin-top:30px;
+font-family:verdana;
+font-style:italic;
+color:white;
+size:600px;
+}
+
+#para01
+{
+margin-top: 30px;	
+margin-left: 30px;
+color:white;
+font-style: italic;
+font-family: cursive;
+width: 1200px;	
+}
+
+
+#para01:hover
+{
+	color:yellow;
+	cursor:pointer;
+}
+
+button.button
+{
+color:navy;
+background-color: powderblue;
+margin-left: 200px;
+float: left;
+padding: 10px 30px;
+transition-duration: 3s;
+opacity: 1;
+cursor: pointer;
+}
+
+button.button:hover {
+  background-color: #f4511e;
+  color: white;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+button.button span{
+	cursor: pointer;
+	transition: 0.3s;
+}
+
+*/<a.headlink
+{
+text-decoration: none;
+color: none;
+}*/
+
+a.link
+{
+color: green;
+}
+
+#para02
+{
+color:yellow;
+margin-top: 50px;	
+font-style: bold;
+font-style: italic;
+font-size: 30px;
+text-align: center;
+}
+
+input.input
+{
+background-color: #8FD400;
+}
+
+#bulbpic
+{
+margin-left: 45%;
+}
+
+#bulbon
+{
+background-color: yellow;
+margin-left:300px; 
+font-style: italic;
+font-family: courier;
+font-style: bold;
+}
+
+#bulboff
+{
+background-color: yellow;
+margin-left: 300px;	
+font-style: italic;
+font-family: courier;
+font-style: bold;
+}
+
+button.bulb:hover
+{
+background-color: #f4511e;
+color: green;
+box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+cursor: pointer;	
+}
+button.bulb span{
+	cursor: pointer;
+	transition: 0.3s;
+}
+
+#TimeButton
+{
+	font-size: 15px;
+	background-color: powderblue;
+	color:green;
+	text-align: center;
+	font-style: cursive;
+	border: solid white;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	margin-left: 45%; 
+}
+
+#TimeButton:hover
+{
+	background-color: yellow;
+	cursor: pointer;
+	color: black;
+}
+
+#form1
+{
+	margin-top: 20px;
+    text-align: center;
+	margin-right: 100px;
+	color:white;
+}
+
+#sbm
+{
+	margin-left: 44%;
+	background-color: yellow;
+}
+
+#sbm:hover
+{
+	background-color: white;
+}
+
+#sbm span{
+	cursor: pointer;
+	transition: 1s;
+}
